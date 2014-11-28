@@ -38,5 +38,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'rspec-rails'
+
+
 gem 'rspec_junit_formatter', :git => 'git@github.com:circleci/rspec_junit_formatter.git'
 gem 'fuubar'
